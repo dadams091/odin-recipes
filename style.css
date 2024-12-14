@@ -1,0 +1,14 @@
+body {
+    background-color: #f0f0f0;
+}
+
+span {
+    color: #f00;
+    font-style: italic;
+    font-size: larger;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
